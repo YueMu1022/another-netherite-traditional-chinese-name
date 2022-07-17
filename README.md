@@ -13,7 +13,7 @@
 1.確保你有安裝[git](https://git-scm.com/)  
 2.在資源包資料夾執行命令：
 ```bash
-git clone https://github.com/YueMu1022/nother-netherite-traditional-chinese-name
+git clone https://github.com/YueMu1022/another-netherite-traditional-chinese-name
 ```
 
 ### 手動
