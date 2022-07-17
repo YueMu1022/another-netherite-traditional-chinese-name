@@ -9,12 +9,12 @@
 
 ## 安裝
 
-### 建議
+### 建議安裝
 1.確保你有安裝[git](https://git-scm.com/)  
 2.在資源包資料夾執行命令：
 ```bash
 git clone https://github.com/YueMu1022/another-netherite-traditional-chinese-name
 ```
 
-### 手動
+### 手動安裝
 到[Releases](https://github.com/YueMu1022/another-netherite-traditional-chinese-name/releases)下載zip
