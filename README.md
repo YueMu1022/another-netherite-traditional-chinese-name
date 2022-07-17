@@ -1,4 +1,4 @@
-# another-netherite-traditional-chinese-name
+# another netherite traditional chinese name
 
 > 這是一個Minecraft資源包
 
