@@ -2,6 +2,7 @@
 
 [![Create zip pack](https://github.com/YueMu1022/another-netherite-traditional-chinese-name/actions/workflows/createzip.yml/badge.svg)](https://github.com/YueMu1022/another-netherite-traditional-chinese-name/actions/workflows/createzip.yml)
 ![GitHub repo size](https://img.shields.io/github/repo-size/YueMu1022/another-netherite-traditional-chinese-name)
+![GitHub](https://img.shields.io/github/license/YueMu1022/AltF4Bot)
 
 > 這是一個Minecraft資源包
 
