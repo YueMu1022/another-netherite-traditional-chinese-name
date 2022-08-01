@@ -8,8 +8,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-  build:
-
+  createzip:
     runs-on: ubuntu-latest
 
     strategy:
