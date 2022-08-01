@@ -19,6 +19,7 @@ git clone https://github.com/YueMu1022/another-netherite-traditional-chinese-nam
 ```
 
 ### 手動安裝
-到[Actions](https://github.com/YueMu1022/another-netherite-traditional-chinese-name/actions/workflows/createzip.yml)下載最新版zip  
-點擊最新的workflow後下載
-![image](https://user-images.githubusercontent.com/96234201/182066653-633c3d07-a720-46d6-bdb3-4f4f8f4e302c.png)
+1.前往[Actions](https://github.com/YueMu1022/another-netherite-traditional-chinese-name/actions/workflows/createzip.yml)  
+2.點擊最新的workflow後下載  
+![image](https://user-images.githubusercontent.com/96234201/182066653-633c3d07-a720-46d6-bdb3-4f4f8f4e302c.png)  
+3.將zip檔案丟到資源包資料夾
